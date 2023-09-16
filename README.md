@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi, I'm Mohamed 👋</h1>
+<h1 align="center">Hi, I'm Basem 👋</h1>
 <p align="center">
-    <a href="https://www.facebook.com/basem.salah.505960"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=facebook&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/basem-salah-254894215/"><img src="https://img.shields.io/badge/facebook-%231FA1F1?style=flat&logo=facebook&logoColor=white"/></a>
     <a href="linkedin.com/in/basem-salah-254894215"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.instagram.com/mohamed_abusrea"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+    <a href="https://www.instagram.com/_basem_salah_/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
@@ -26,7 +26,9 @@ I'm a frontend developer who is passionate about creating technology to elevate 
     </p>
 
 - 🔭 I'm a software developer
+- 
 -🚀 Always ready to collaborate for Dev Experiments
+-
 ⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking
 <!--
 **basemsala7/basemsala7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
